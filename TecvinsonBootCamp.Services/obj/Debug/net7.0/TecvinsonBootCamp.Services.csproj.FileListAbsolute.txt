@@ -15,3 +15,4 @@ C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debu
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\refint\TecvinsonBootCamp.Services.dll
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.pdb
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\ref\TecvinsonBootCamp.Services.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.sourcelink.json

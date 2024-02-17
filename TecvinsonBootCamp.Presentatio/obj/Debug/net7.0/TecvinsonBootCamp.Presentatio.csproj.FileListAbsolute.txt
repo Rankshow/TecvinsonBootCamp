@@ -81,3 +81,4 @@ C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Presentatio\bin\D
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Presentatio\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Presentatio\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Presentatio\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Presentatio\obj\Debug\net7.0\TecvinsonBootCamp.Presentatio.sourcelink.json

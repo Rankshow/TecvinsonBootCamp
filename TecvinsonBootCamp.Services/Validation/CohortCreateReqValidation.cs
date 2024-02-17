@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using TecvinsonBootCamp.Core.Entities;
 using TecvinsonBootCamp.Services.Contract;
 
 namespace TecvinsonBootCamp.Services.Validation

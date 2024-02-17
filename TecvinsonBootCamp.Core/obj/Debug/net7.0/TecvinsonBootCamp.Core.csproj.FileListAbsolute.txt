@@ -9,3 +9,4 @@ C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\ne
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\refint\TecvinsonBootCamp.Core.dll
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.pdb
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\ref\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.sourcelink.json

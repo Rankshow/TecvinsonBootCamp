@@ -15,3 +15,4 @@ C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.pdb
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.genruntimeconfig.cache
 C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\ref\TecvinsonBootCamp.Respositories.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.sourcelink.json
