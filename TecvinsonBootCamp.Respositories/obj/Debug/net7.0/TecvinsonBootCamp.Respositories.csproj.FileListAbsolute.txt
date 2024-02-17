@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.deps.json
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.runtimeconfig.json
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\bin\Debug\net7.0\TecvinsonBootCamp.Core.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.AssemblyInfo.cs
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.csproj.CopyComplete
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\refint\TecvinsonBootCamp.Respositories.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\TecvinsonBootCamp.Respositories.genruntimeconfig.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Respositories\obj\Debug\net7.0\ref\TecvinsonBootCamp.Respositories.dll

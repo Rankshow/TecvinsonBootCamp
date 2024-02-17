@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\bin\Debug\net7.0\TecvinsonBootCamp.Core.deps.json
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\bin\Debug\net7.0\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\bin\Debug\net7.0\TecvinsonBootCamp.Core.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\refint\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\TecvinsonBootCamp.Core.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Core\obj\Debug\net7.0\ref\TecvinsonBootCamp.Core.dll

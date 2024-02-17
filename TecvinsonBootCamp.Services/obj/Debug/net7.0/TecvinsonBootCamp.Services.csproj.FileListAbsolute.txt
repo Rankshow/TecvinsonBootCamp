@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Services.deps.json
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Services.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Services.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Core.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Respositories.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\bin\Debug\net7.0\TecvinsonBootCamp.Core.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.csproj.CopyComplete
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\refint\TecvinsonBootCamp.Services.dll
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\TecvinsonBootCamp.Services.pdb
+C:\Users\User\source\repos\TecvinsonBootCamp\TecvinsonBootCamp.Services\obj\Debug\net7.0\ref\TecvinsonBootCamp.Services.dll
